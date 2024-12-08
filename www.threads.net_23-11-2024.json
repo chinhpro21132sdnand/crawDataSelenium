@@ -1,0 +1,32 @@
+[
+    {
+        "domain": ".threads.net",
+        "expiry": 1766910718,
+        "httpOnly": false,
+        "name": "mid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "Z0GS_AALAAG8jPr6Tvi5w9B6hzUl"
+    },
+    {
+        "domain": ".threads.net",
+        "expiry": 1763886715,
+        "httpOnly": true,
+        "name": "ig_did",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "EB3CB39A-E47F-431B-BBBA-609C00373A6D"
+    },
+    {
+        "domain": ".threads.net",
+        "expiry": 1763800315,
+        "httpOnly": false,
+        "name": "csrftoken",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "oQmM7oF_IO87vzeEH-ci_u"
+    }
+]
